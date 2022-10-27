@@ -1,12 +1,12 @@
 ﻿using System;
 
-namespace GigaPRinter
+namespace GiGaPrinter
 {
     class Program
     {
         static void Main(string[] args)
         {
-            
+            Console.WriteLine("Select figure :");
         }
     }
 }

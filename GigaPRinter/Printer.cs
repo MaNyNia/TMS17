@@ -4,8 +4,7 @@ using System.Text;
 
 namespace GiGaPrinter
 {
-   public abstract class Shape
+    class Printer
     {
-        
     }
 }
