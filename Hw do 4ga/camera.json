@@ -1,0 +1,27 @@
+[
+  {
+    "Firn": "Sony",
+    "Model": "A7 III",
+    "Lens": "4",
+    "Functions": "-",
+    "Price": "2503,60",
+    "Availability": true
+  },
+  {
+    "Firn": "Ñanon",
+    "Model": "EOS R6 ",
+    "Lens": "8",
+    "Functions": "+",
+    "Price": "1434,73",
+    "Availability": false
+  },
+  {
+    "Firn": "Sony",
+    "Model": "A7 III",
+    "Lens": "4",
+    "Functions": "-",
+    "Price": "895,4",
+    "Availability": true
+  }
+
+]
